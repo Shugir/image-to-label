@@ -1,0 +1,44 @@
++-------------------------------------------------------+ <-- 62mm Outer Edge
+|  [3mm Margin]   56mm Max Print Width   [3mm Margin]   |
+|                                                       |
+|   =================================================   |
+|               [PRODUCT TITLE / VARIANT]               | 
+|   -------------------------------------------------   |
+|                                                       |
+|   NUTRITION INFORMATION                               | <-- 7pt Bold
+|   Typical Values          Per 100g      Per 25g*      | <-- 6pt Bold (3-Column Layout)
+|   -------------------------------------------------   | 
+|   Energy                1680 kJ       420 kJ          | <-- 6pt Regular
+|                         400 kcal      100 kcal        |
+|   Fat                     12.0 g         3.0 g        |
+|     of which saturates     2.4 g         0.6 g        | <-- Indent sub-categories slightly
+|   Carbohydrate            64.0 g        16.0 g        |
+|     of which sugars       28.0 g         7.0 g        |
+|   Fibre                    4.0 g         1.0 g        |
+|   Protein                  7.0 g         1.8 g        |
+|   Salt                    0.40 g        0.10 g        |
+|   -------------------------------------------------   |
+|   *This pack contains 4 servings.                     | <-- 5.5pt Italic
+|                                                       |
+|   -------------------------------------------------   |
+|                                                       |
+|   INGREDIENTS: Whole Oats (40%), Sugar, Vegetable Oil | <-- 6.5pt Left Aligned
+|   (Palm), Chocolate Chips (10%) (Sugar, Cocoa Mass,   |     (Bold allergens like WHEAT)
+|   Cocoa Butter, Emulsifier: SOYA Lecithin), Crisp     |
+|   Rice (Rice Flour, WHEAT Flour, Sugar, Malted        |
+|   BARLEY Flour, Salt), Salt.                          |
+|                                                       |
+|   ALLERGY ADVICE: For allergens, including cereals    | <-- 6pt Bold
+|   containing gluten, see ingredients in BOLD.         |
+|   May also contain traces of NUTS.                    |
+|                                                       |
+|   -------------------------------------------------   |
+|                                                       |
+|   STORAGE: Store in a cool, dry place. Reseal         |
+|   bag after opening to maintain freshness.            |
+|                                                       |
+|   -------------------------------------------------   |
+|   Mfd for: Food Co Ltd, London, EC1A 1AA, UK.         |
+|                                                       |
+|     (e 100g)            [Recycle]         [Vegan]     | <-- Icons stacked horizontally
++-------------------------------------------------------+ <-- Base drops dynamically
