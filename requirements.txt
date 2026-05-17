@@ -4,3 +4,6 @@ uvicorn
 pywin32
 sqlalchemy
 requests
+Pillow
+brother_ql
+pyusb
